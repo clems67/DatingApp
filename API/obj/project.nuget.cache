@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PMpr3EejjR0djH1wQff1qS0hENKrbG1ANM+golIH7GM3zfDNk7DXHXRH5qWKMpodW61org+xC/jkzdQhhUocyQ==",
+  "dgSpecHash": "oiHXih1aFSlFetbPP8UAQIiM7iPyI9HnL63Wh+p0tqkFEHwIhZH9EZnafbPy88MjhaXP7ZVXiJbUCHMukq1fSg==",
   "success": true,
   "projectFilePath": "C:\\repos\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\ccaravit\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.2\\microsoft.entityframeworkcore.relational.7.0.2.nupkg.sha512",
     "C:\\Users\\ccaravit\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\7.0.2\\microsoft.entityframeworkcore.sqlite.7.0.2.nupkg.sha512",
     "C:\\Users\\ccaravit\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\7.0.2\\microsoft.entityframeworkcore.sqlite.core.7.0.2.nupkg.sha512",
+    "C:\\Users\\ccaravit\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.2\\microsoft.entityframeworkcore.tools.7.0.2.nupkg.sha512",
     "C:\\Users\\ccaravit\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\ccaravit\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\ccaravit\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
